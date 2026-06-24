@@ -41,4 +41,3 @@ Embedding-based provider similarity and ranking. The system turns provider claim
 - Business alignment: `validate_model_vs_analytics.py`, `validate_county_coverage.py`, `validate_prototype_impact.py`.
 - Cluster/threshold checking: `validate_threshold_gmm_silhouette.py` (GMM, silhouette, gap statistic).
 
-See `REDACTIONS.md` for the full list of sanitization changes.
